@@ -1,0 +1,13 @@
+header .fa-angle-down {
+  display: block;
+  position: absolute;
+  left: 50%;
+  bottom: 2vh;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  font-size: 35px;
+  -webkit-animation: bounce 1.5s infinite;
+          animation: bounce 1.5s infinite;
+  color: #fff;
+}
+/*# sourceMappingURL=large.css.map */
