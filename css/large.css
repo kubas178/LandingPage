@@ -10,4 +10,9 @@ header .fa-angle-down {
           animation: bounce 1.5s infinite;
   color: #fff;
 }
+
+#prices .text-center {
+  position: absolute;
+  top: 83.74%;
+}
 /*# sourceMappingURL=large.css.map */

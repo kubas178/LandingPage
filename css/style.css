@@ -231,7 +231,7 @@ header .fa-angle-down {
 
 #prices {
   background-color: #eee;
-  padding: 20px;
+  padding: 10px;
 }
 
 #prices .card {
@@ -288,7 +288,7 @@ header .fa-angle-down {
 
 #prices p {
   text-align: center;
-  margin: 20px 0 5px;
+  margin: 10px 0 5px;
 }
 
 #prices p a {
